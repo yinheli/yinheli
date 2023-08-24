@@ -1,4 +1,5 @@
-Hey, I'm yinheli (aka Henry)! 👋
+👋 Hey, I'm yinheli (aka Henry)!  
+🌱 I’m currently learning diffusion model.
 
 Full Stack Developer, especially focus on backend. Big fan of Rust & [『凡人修仙传』](https://www.bilibili.com/bangumi/media/md28223043)
 
