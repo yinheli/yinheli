@@ -1,5 +1,6 @@
 👋 Hey, I'm yinheli (aka Henry)!  
-🌱 I’m currently hunting for a job base beijing.
+🍀 I’m currently studying the course CMU 15-445.  
+🌱 Also, I’m hunting for a job based in Beijing.  
 
 Full Stack Developer, especially focus on backend.
 
