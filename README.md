@@ -1,5 +1,7 @@
 👋 Hey, I'm yinheli (aka Henry)!  
-🍀 I’m currently studying the course CMU 15-445.  
+🍀 I'm currently studying langchain and building a chatbot.  
+💻 Interested in Database, Storage, Cloud Native, Web3.  
+
 
 Full Stack Developer, especially focus on backend.
 
