@@ -11,6 +11,13 @@ WeChat
 echo -n 'bml5aWxlaAo=' | base64 -d | rev
 ```
 
-<img src="https://github-readme-stats-yinheli.vercel.app/api?username=yinheli&show_icons=true&count_private=true&hide_title=true&theme=radical&_v1" alt="stats" height="160" /> <img src="https://github-readme-stats-yinheli.vercel.app/api/top-langs/?username=yinheli&langs_count=8&layout=compact&hide_title=true&hide=html,css,groff,tex,hiveql,Jupyter%20Notebook&theme=radical&_v2" alt="lang" height="160" />
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=235094" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=235094&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @yinheli" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=235094&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 
 ![](https://komarev.com/ghpvc/?username=yinheli)
