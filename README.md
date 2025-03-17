@@ -1,6 +1,7 @@
 👋 Hey, I'm yinheli (aka Henry)!  
 🍀 I'm currently studying langchain and building a chatbot.  
-💻 Interested in Database, Storage, Cloud Native, Web3.  
+🔍 Interested in Database, Storage, Cloud Native, Web3.  
+💻 Vibe coding with music and coffee
 
 
 Full Stack Developer, especially focus on backend.
