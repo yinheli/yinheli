@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/yinheli/yinheli/master/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
